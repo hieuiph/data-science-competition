@@ -1,6 +1,6 @@
 # Decodage d'une formule de pricing MAIF
 
-https://www.datascience.net/fr/home/#_=_
+https://www.datascience.net/fr/challenge/26/details
 
 La MAIF souhaite tester l’efficacité du reverse engineering tarifaire. Cette approche consiste à déterminer l’équation ou l’algorithme permettant de calculer les prix d’une couverture d’assurance automobile, à partir de l’observation des résultats (prix public) sur un échantillon de profils. 
 
